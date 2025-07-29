@@ -1,0 +1,30 @@
+# Go equivalent of node_modules
+vendor/
+
+# Binary output
+rcs-text-golang
+/rcs-text-golang
+
+# Environment variables
+.env
+*.env
+
+# Private keys
+*.key
+private.key
+
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE and OS specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
