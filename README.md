@@ -5,7 +5,7 @@ Sample Go application demonstrating how to send RCS text messages with the Vonag
 # How to Send RCS Text Messages with Go
 A Go application that allows you to send iRch Communications Services(RCS) text messages.
 
-> You can find full step-by-step instructions on the [Vonage Developer Blog](#). (Not published yet)
+> You can find full step-by-step instructions on the [Vonage Developer Blog](https://developer.vonage.com/en/blog/how-to-send-rcs-text-messages-with-go-and-the-vonage-messages-api). 
 
 
 
